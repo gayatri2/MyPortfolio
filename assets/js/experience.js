@@ -6,25 +6,25 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Full Stack Web Development Intern",
+    cardImage: "assets/images/experience-page/solalogo.png",
+    place: "Solapur Police",
+    time: "(May, 2021 - July, 2021)",
+    desp: "<li>Worked to build a Web Application for transfer of the Police of Solapur.</li> <li>Tech Stack: React JS, Node JS, Firebase </li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "Web Development Intern",
+    cardImage: "assets/images/experience-page/download.png",
+    place: "Sparks Foundation",
+    time: "(May, 2021)",
+    desp: "<li>Built a basic banking system web application.</li><li>Tech Stack: React JS, Node JS, SQL</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp:"<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "Full Stack Web Development Intern",
+    cardImage: "assets/images/experience-page/download1.jpg",
+    place: "Virtue Infotek, Pune",
+    time: "(August, 2021 - Present)",
+    desp:"<li>Worked on Courier System Application.</li><li>Tech Stack: Flutter, Node JS, SQL</li>",
   },
 ];
 
